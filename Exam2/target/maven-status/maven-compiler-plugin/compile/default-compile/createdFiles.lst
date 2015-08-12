@@ -1,0 +1,6 @@
+com\hand\Exam2\entity\Rental.class
+com\hand\Exam2\entity\Film.class
+com\hand\Exam2\entity\Customer.class
+com\hand\Exam2\utils\ConnectionFactory.class
+com\hand\Exam2\App.class
+com\hand\Exam2\entity\Inventory.class
